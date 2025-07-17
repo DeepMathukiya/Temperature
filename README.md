@@ -42,6 +42,18 @@ Accurate temperature forecasting is crucial for agriculture, disaster management
 
 ---
 
+## Accuracy 
+### Case 1:
+for year 2016-2020
+r2 0.95 <br>
+RMSE 1.18 
+<img src="case1.png">
+
+### Case 2:
+fed 2016 data to model and predict next 5 years:
+<img src="case2a.png">
+fed 2017 data to model and predict next 5 years:
+<img src="case2b.png">
 ## ⚙️ Installation
 
 Clone the repository and install dependencies:

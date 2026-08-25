@@ -1,10 +1,10 @@
-# 🌡️ Temperature Forecasting using Time Series Models
+# Temperature Forecasting using Time Series Models
 
 This project aims to forecast monthly maximum temperatures using time series forecasting techniques. Developed as part of a research internship at the India Meteorological Department (IMD), the project applies statistical and machine learning models to analyze and predict temperature patterns over time.
 
 
 
-## 🔍 Overview
+## Overview
 
 Accurate temperature forecasting is crucial for agriculture, disaster management, and climate studies. This project focuses on:
 
@@ -14,7 +14,7 @@ Accurate temperature forecasting is crucial for agriculture, disaster management
 
 ---
 
-## ✨ Features
+## Features
 
 - Exploratory Data Analysis (EDA)
 - Stationarity tests and decomposition
@@ -24,7 +24,7 @@ Accurate temperature forecasting is crucial for agriculture, disaster management
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 - **Source:** India Meteorological Department
 - **Format:** CSV
@@ -33,7 +33,7 @@ Accurate temperature forecasting is crucial for agriculture, disaster management
 
 ---
 
-## 🧠 Models Used
+## Models Used
 
 | Model Type     | Model Name     | Description                                           |
 |----------------|----------------|-------------------------------------------------------|
